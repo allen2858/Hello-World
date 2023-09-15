@@ -12,7 +12,7 @@ This sentence has a footnote. [^1]
 # Files Used
 **These are the files I used.**
 # Additional Documentation
-This repository includes ==branches and merging.==
+This repository includes ==branches and merging==.
 # Versioning
 | GitHub | LinkedIn |
 | ----------- | ----------- |
